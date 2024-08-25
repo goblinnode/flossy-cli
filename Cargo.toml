@@ -1,0 +1,12 @@
+[package]
+name = "flossy-cli"
+version = "0.1.0"
+edition = "2021"
+
+[[bin]]
+name = "flossy"
+path = "src/main.rs"
+
+[dependencies]
+clap = "4.4"  # For parsing command-line arguments
+dialoguer = "0.10.4"  # For interactive prompts
