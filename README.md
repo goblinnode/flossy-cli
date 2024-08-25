@@ -7,5 +7,5 @@
 cargo install flossy-cli
 
 ### usage
-`flossy -c <message>`
+`flossy -c "<message>"`
 
