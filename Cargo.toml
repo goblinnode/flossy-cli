@@ -1,7 +1,12 @@
 [package]
 name = "flossy-cli"
 version = "0.1.0"
+authors = ["goblinnode <goblinnode@gmail.com>"]
 edition = "2021"
+description = "A CLI tool for adding emojis to commit messages"
+license = "MIT"
+repository = "https://github.com/goblinnode/flossy-ui"
+homepage = "https://github.com/goblinnode/flossy-ui"
 
 [[bin]]
 name = "flossy"
